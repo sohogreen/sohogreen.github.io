@@ -45,9 +45,9 @@ title: Wall of Light Slideshow
 
 			<!-- Any section element inside of this container is displayed as a slide -->
 			<div class="slides">
-
+				<h1>{{ site.title }}</h1>
 				{% for p in site.walloflight_photos %}
-				<h1>p</h1>
+				<h1>{{ p }}</h1>
 				<section>
 					<img src="{{ p.path }}" />
 				</section>
