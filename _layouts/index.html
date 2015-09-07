@@ -17,15 +17,15 @@
 
     {% elsif page.section-type == "wall" %}
 
-      {% include walloflight.html %}
+      {% include page.html %}
 
     {% elsif page.section-type == "loovre" %}
 
-      {% include loovre.html %}
+      {% include page.html %}
 
     {% elsif page.section-type == "contact" %}
 
-      {% include contact.md %}
+      {% include contact.html %}
 
     {% endif %}
 
