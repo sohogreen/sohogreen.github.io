@@ -7,7 +7,7 @@ keywords: "soho, green, sohogreen, central london, parks, wall of light"
 favicon: "/img/favicon.ico"
 black-favicon: "/img/black-lab-glass.ico"
 google-tracking-id: ""
-disqus-shortname: 
+disqus-shortname:
 
 # Navigation bar links
 # Blog link in the blog and post pages will point to the blog.html#blog
@@ -15,13 +15,14 @@ disqus-shortname:
 
 pages_list:
   About: 'about'
-  'Wall of Light': 'wall'
-  'The Loovre': 'loovre'
+  'Wall of Light': 'wall-of-light'
+  'The Art Loo': 'the-art-loo'
   Contact: 'contact'
 
 collections:
-  - walloflight_photos
-  - loovre_photos
+  - wall_photos
+  - loo_photos
+
 background-img: "/img/intro-bg.jpg"
 
 # About variables

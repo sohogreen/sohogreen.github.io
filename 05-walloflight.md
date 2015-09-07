@@ -5,3 +5,8 @@ title: Wall of Light
 ---
 
 ## Wall of Light
+
+[wall of light image][image]
+
+
+[image]: /wallslide/
