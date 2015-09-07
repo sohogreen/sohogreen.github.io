@@ -54,7 +54,10 @@ social:
     url: ""
   - title: "youtube"
     url: ""
-
+  - title: "facebook"
+    url: "https://www.facebook.com/sohogreen"
+  - title: "twitter"
+    url: "https://twitter.com/sohogreen"
 
 404-img: "/img/labtocat.png"
 
