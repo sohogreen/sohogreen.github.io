@@ -2,8 +2,8 @@
 layout: null
 section-type: contact
 title: Contact
-email: kath .a:t. sohogreen /d|o|t\ com
-
+email: noone@sohogreen.com
+#TODO Add correct email
 ---
 ## Contact
 

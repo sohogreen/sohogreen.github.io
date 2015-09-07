@@ -9,23 +9,16 @@
 
   {% include header.html %}
 
-  {% for page in site.pages %}
+  {% assign pages = site.pages | sort: 'name' %}
+  {% for page in pages limit:4 %}
 
-    {% if page.section-type == "about" %}
-
-      {% include about.html %}
-
-    {% elsif page.section-type == "wall" %}
-
-      {% include walloflight.html %}
-
-    {% elsif page.section-type == "loovre" %}
-
-      {% include loovre.html %}
-
-    {% elsif page.section-type == "contact" %}
+    {% if page.section-type == "contact" %}
 
       {% include contact.html %}
+
+    {% else %}
+
+      {% include page.html %}
 
     {% endif %}
 
