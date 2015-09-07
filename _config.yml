@@ -20,14 +20,14 @@ pages_list:
   'Wall of Light': 'wall-of-light'
   'The Art Loo': 'the-art-loo'
   'The Table': 'the-table'
-  Transformations: 'transformations'
+  'The Garden': 'the-garden'
   Contact: 'contact'
 
 collections:
   - wall_photos
   - loo_photos
   - table_photos
-  - transform_photos
+  - garden_photos
 
 background-img: "/img/intro-bg.jpg"
 
