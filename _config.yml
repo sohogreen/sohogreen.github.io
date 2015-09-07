@@ -2,6 +2,8 @@
 
 url: "sohogreen.com"
 title: "Soho Green"
+author: "Samson Danziger"
+author-github: "marscapone"
 description: "Basic website for Soho Green Charity"
 keywords: "soho, green, sohogreen, central london, parks, wall of light"
 favicon: "/img/favicon.ico"
@@ -18,12 +20,14 @@ pages_list:
   'Wall of Light': 'wall-of-light'
   'The Art Loo': 'the-art-loo'
   'The Table': 'the-table'
+  Transformations: 'transformations'
   Contact: 'contact'
 
 collections:
   - wall_photos
   - loo_photos
   - table_photos
+  - transform_photos
 
 background-img: "/img/intro-bg.jpg"
 
