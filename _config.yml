@@ -15,8 +15,8 @@ disqus-shortname:
 
 pages_list:
   About: 'about'
-  Wall of Light: 'wall'
-  The Loovre: 'loovre'
+  'Wall of Light': 'wall'
+  'The Loovre': 'loovre'
   Contact: 'contact'
 
 background-img: "/img/intro-bg.jpg"
