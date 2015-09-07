@@ -19,6 +19,9 @@ pages_list:
   'The Loovre': 'loovre'
   Contact: 'contact'
 
+collections:
+  - walloflight_photos
+  - loovre_photos
 background-img: "/img/intro-bg.jpg"
 
 # About variables
