@@ -1,0 +1,10 @@
+---
+layout: slideshow
+title: Transformation Slideshow
+---
+{% for photo in site.data.image-descriptions['transformations'] %}
+<section>
+  <h3>{{ photo[1] }}</h3>
+	<img src="/transform_photos/{{ photo[0] }}" />
+</section>
+{% endfor %}
