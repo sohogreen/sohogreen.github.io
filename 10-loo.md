@@ -6,7 +6,7 @@ title: The Art Loo
 
 ## The Art Loo
 
-[art loo image][image]
+![art loo image][image]
 
 
-[image]: /looslide/.01.jpg
+[image]: /loo_photos/01.jpg

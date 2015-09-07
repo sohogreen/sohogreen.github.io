@@ -6,7 +6,7 @@ title: The Table
 
 ## The Table
 
-[table image][image]
+![table image][image]
 
 
-[image]: /tableslide/01.jpg
+[image]: /img/table-main.jpg

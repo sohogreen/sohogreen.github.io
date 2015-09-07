@@ -6,7 +6,7 @@ title: Wall of Light
 
 ## Wall of Light
 
-[wall of light image][image]
+![wall of light image][image]
 
 
-[image]: /wallslide/01.jpg
+[image]: /img/wall-main.jpg
