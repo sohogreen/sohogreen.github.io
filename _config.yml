@@ -7,7 +7,6 @@ author-github: "marscapone"
 description: "Basic website for Soho Green Charity"
 keywords: "soho, green, sohogreen, central london, parks, wall of light"
 favicon: "/img/favicon.ico"
-black-favicon: "/img/black-lab-glass.ico"
 google-tracking-id: ""
 disqus-shortname:
 
@@ -18,8 +17,8 @@ disqus-shortname:
 pages_list:
   About: 'about'
   'Wall of Light': 'wall-of-light'
-  'The Art Loo': 'the-art-loo'
-  'The Table': 'the-table'
+  'Art Loo': 'art-loo'
+  'Table': 'table'
   'The Garden': 'the-garden'
   Contact: 'contact'
 
@@ -31,11 +30,11 @@ collections:
 
 background-img: "/img/intro-bg.jpg"
 
-# About variables
-
 me-img:
-contact-email:
-
+contact-email: info@sohogreen.com
+charity-number: 1088016
+company-number: 4239057
+photography-owner: "Elaine Duigenan and Stu Keegan"
 # Blog variables
 paginate: 15
 
@@ -59,12 +58,6 @@ career-img: "/img/career/default.jpg"
 
 # Social networks variables (many more available: facebook, flickr, dribbble, pinterest, instagram, tumblr etc.)
 social:
-  - title: "github"
-    url: "https://github.com/sohogreen"
-  - title: "linkedin"
-    url: ""
-  - title: "youtube"
-    url: ""
   - title: "facebook"
     url: "https://www.facebook.com/sohogreen"
   - title: "twitter"

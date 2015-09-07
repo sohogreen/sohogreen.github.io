@@ -5,7 +5,7 @@
 
           {{ page.content | markdownify }}
 
-          {% if page.email %}
+          {% if site.contact-email %}
             <p><a href="mailto:{{ site.contact-email }}">{{ site.contact-email }}</a></p>
           {% endif %}
 

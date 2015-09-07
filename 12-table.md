@@ -1,10 +1,10 @@
 ---
 layout: null
-section-type: the-table
-title: The Table
+section-type: table
+title: Table
 ---
 
-## The Table
+## Table
 
 [![table image][image]][slide]
 

@@ -1,13 +1,13 @@
 ---
 layout: null
-section-type: the-art-loo
-title: The Art Loo
+section-type: art-loo
+title: Art Loo
 ---
 
-## The Art Loo
+## Art Loo
 
 [![art loo image][image]][slide]
 
 
-[image]: /loo_photos/01.jpg
+[image]: /img/loo-main.jpg
 [slide]: /looslide/
