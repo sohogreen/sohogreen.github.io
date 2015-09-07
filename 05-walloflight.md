@@ -1,6 +1,6 @@
 ---
 layout: null
-section-type: wall
+section-type: wall-of-light
 title: Wall of Light
 ---
 
