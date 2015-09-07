@@ -9,4 +9,4 @@ title: The Table
 [table image][image]
 
 
-[image]: /tableslide/
+[image]: /tableslide/01.jpg

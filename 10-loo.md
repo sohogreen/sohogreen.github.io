@@ -9,4 +9,4 @@ title: The Art Loo
 [art loo image][image]
 
 
-[image]: /looslide/
+[image]: /looslide/.01.jpg

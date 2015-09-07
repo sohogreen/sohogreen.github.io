@@ -9,4 +9,4 @@ title: Wall of Light
 [wall of light image][image]
 
 
-[image]: /wallslide/
+[image]: /wallslide/01.jpg
