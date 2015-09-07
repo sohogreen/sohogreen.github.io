@@ -17,17 +17,20 @@ pages_list:
   About: 'about'
   'Wall of Light': 'wall-of-light'
   'The Art Loo': 'the-art-loo'
+  'The Table': 'the-table'
   Contact: 'contact'
 
 collections:
   - wall_photos
   - loo_photos
+  - table_photos
 
 background-img: "/img/intro-bg.jpg"
 
 # About variables
 
 me-img:
+contact-email:
 
 # Blog variables
 paginate: 15
