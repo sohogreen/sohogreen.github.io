@@ -10,7 +10,7 @@
   {% include header.html %}
 
   {% assign pages = site.pages | sort: 'name' %}
-  {% for page in pages %}
+  {% for page in pages limit:4 %}
 
     {% if page.section-type == "contact" %}
 
