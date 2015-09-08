@@ -12,15 +12,9 @@
   {% assign pages = site.pages | sort: 'name' %}
   {% for page in pages limit:6 %}
 
-    {% if page.section-type == "contact" %}
-
-      {% include contact.html %}
-
-    {% else %}
 
       {% include page.html %}
 
-    {% endif %}
 
   {% endfor %}
 

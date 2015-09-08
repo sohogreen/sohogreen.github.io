@@ -29,12 +29,12 @@ collections:
   - garden_photos
 
 background-img: "/img/intro-bg.jpg"
-
-me-img:
 contact-email: info@sohogreen.com
 charity-number: 1088016
 company-number: 4239057
 photography-owner: "Elaine Duigenan and Stu Keegan"
+image-opacity: 0.5
+
 # Blog variables
 paginate: 15
 
