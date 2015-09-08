@@ -3,11 +3,11 @@
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
 
-          {{ page.content | markdownify }}
-
           {% if site.contact-email %}
             <p><a href="mailto:{{ site.contact-email }}">{{ site.contact-email }}</a></p>
           {% endif %}
+
+          {{ page.content | markdownify }}
 
           {% include social-buttons.html %}
 
