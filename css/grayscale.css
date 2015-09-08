@@ -29,7 +29,7 @@ div.darken:hover img {
 
 }
 
-img {
+.darken img {
 	border-width: 3px;
 	border-style: solid;
 	border-color: #fff;
