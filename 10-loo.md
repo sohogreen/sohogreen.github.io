@@ -6,6 +6,8 @@ title: Art Loo
 
 ## Art Loo
 
+Architect: Steve Johnson, Artist: Elaine Duigenan
+
 [![art loo image][image]][slide]
 
 

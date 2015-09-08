@@ -6,6 +6,8 @@ title: Table
 
 ## Table
 
+Designed and built by David Colwell
+
 [![table image][image]][slide]
 
 
