@@ -15,7 +15,7 @@ div.darken {
 }
 
 div.darken img {
-    display: block;
+		display: block;
 
     -webkit-transition: all 0.5s linear;
        -moz-transition: all 0.5s linear;
@@ -27,6 +27,12 @@ div.darken img {
 div.darken:hover img {
     opacity: {{ site.image-opacity }};
 
+}
+
+img {
+	border-width: 3px;
+	border-style: solid;
+	border-color: #fff;
 }
 
 /* END MY STYLES */
