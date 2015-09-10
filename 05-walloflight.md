@@ -6,7 +6,7 @@ title: Wall of Light
 
 ## Wall of Light
 
-Architect: Steve Johnson
+Architect: The Architecture Ensemble
 
 [![wall of light image][image]][slide]
 
