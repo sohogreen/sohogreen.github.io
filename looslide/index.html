@@ -6,7 +6,9 @@ title: Loo Slideshow
 {% for photo in site.data.image-descriptions['art-loo'] %}
 <section>
   <h3>{{ photo[1] }}</h3>
-	<img src="/loo_photos/{{ photo[0] }}" />
+	<a href="/loo_photos/{{ photo[0] }}">
+		<img src="/loo_photos/{{ photo[0] }}" />
+	</a>
 </section>
 {% endfor %}
 <section>

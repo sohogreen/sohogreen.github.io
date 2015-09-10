@@ -5,7 +5,9 @@ title: Table Slideshow
 {% for photo in site.data.image-descriptions['table'] %}
 <section>
   <h3>{{ photo[1] }}</h3>
-	<img src="/table_photos/{{ photo[0] }}" />
+	<a href="/table_photos/{{ photo[0] }}">
+		<img src="/table_photos/{{ photo[0] }}" />
+	</a>
 </section>
 {% endfor %}
 <section>

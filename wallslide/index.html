@@ -6,7 +6,9 @@ title: Wall of Light Slideshow
 				{% for photo in site.data.image-descriptions['wall-of-light'] %}
 				<section>
 					<h3>{{ photo[1] }}</h3>
-					<img src="/wall_photos/{{ photo[0] }}" />
+					<a href="/wall_photos/{{ photo[0] }}">
+						<img src="/wall_photos/{{ photo[0] }}" />
+					</a>
 				</section>
 				{% endfor %}
 				<section>

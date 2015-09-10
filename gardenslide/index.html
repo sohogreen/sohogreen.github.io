@@ -5,6 +5,8 @@ title: Transformation Slideshow
 {% for photo in site.data.image-descriptions['the-garden'] %}
 <section>
   <h3>{{ photo[1] }}</h3>
-	<img src="/garden_photos/{{ photo[0] }}" />
+	<a href="garden_photos/{{ photo[0] }}">
+		<img src="/garden_photos/{{ photo[0] }}" />
+	</a>
 </section>
 {% endfor %}
