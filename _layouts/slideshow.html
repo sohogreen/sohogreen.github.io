@@ -9,7 +9,7 @@ title: page.title
 	<head>
 		<meta charset="utf-8">
 
-		<title>{{ page.title }}</title>
+		<title>Soho Green | Slidshow</title>
 
 		<meta name="apple-mobile-web-app-capable" content="yes" />
 		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
@@ -37,6 +37,22 @@ title: page.title
 	</head>
 
 	<body>
+		<style>
+			.reveal .slides {
+	 			 height: 100%;
+		  		 top: 0;
+			  	 margin-top: 0;
+			}
+
+			.reveal .slides>section {
+	  		min-height: 90%;
+		  	top: auto;
+			}
+
+			.reveal .slides>section>section {
+	  		min-height: 100%;
+			}
+		</style>
 		<a style="font-family:LeagueGothic,sans-serif; font-size:16pt; text-transform:uppercase; color:white" href="/"><h3>{{ site.title }}</h3></a>
 
     <div class="reveal">
@@ -69,10 +85,10 @@ title: page.title
 
         //zoom and scaling
         //width: 960,
-        height: 1000,
-        //margin: 0.1,
-        //minScale: 0.2,
-        //maxScale: 1.5
+        height: 900,
+        margin: 0.3,
+        minScale: 0,
+        maxScale: 1.0,
 
 				// Optional reveal.js plugins
 				dependencies: [
